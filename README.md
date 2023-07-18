@@ -1,4 +1,4 @@
-# Spam and Ham sms_message Classification
+# Spam and Ham Email Classification
 The Spam and Ham Email Classification project utilizes machine learning techniques to develop a model that can accurately classify emails as either spam or ham.The project involves the following steps:
 
 1. Data Collection: A dataset of labeled emails, categorized as spam or ham, is collected to serve as the training data for the machine learning model.
