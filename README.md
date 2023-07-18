@@ -13,4 +13,4 @@ The Spam and Ham Email Classification project utilizes machine learning techniqu
 
 6. Model Evaluation: The trained model is evaluated using a separate test dataset to assess its performance. Evaluation metrics such as accuracy, precision, recall, and F1 score are used to measure the model's effectiveness in correctly classifying emails.
 
-# Throughout the project, the focus is on leveraging machine learning algorithms to build an effective and efficient system for classifying emails as Spam or Ham. The goal is to provide users with a reliable tool that reduces the risk of unwanted or harmful emails reaching their inbox.
+Throughout the project, the focus is on leveraging machine learning algorithms to build an effective and efficient system for classifying emails as Spam or Ham. The goal is to provide users with a reliable tool that reduces the risk of unwanted or harmful emails reaching their inbox.
